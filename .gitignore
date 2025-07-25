@@ -1,0 +1,23 @@
+# === VSCode ===
+.vscode/
+
+# === Compilateurs C/C++ ===
+*.out
+*.exe
+*.o
+*.obj
+*.gch
+*.log
+
+# === Fichiers binaires temporaires ===
+*.class
+*.pyc
+*.DS_Store
+*.swp
+
+# === Fichiers générés automatiquement ===
+*.a
+*.so
+*.dSYM/
+build/
+bin/.DS_Store
