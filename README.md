@@ -21,7 +21,9 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | #   | Titre                        | Difficulté | Fait ? | Lien LeetCode                             |
 |-----|------------------------------|------------|--------|--------------------------------------------|
 | 1768 | Merge Strings Alternately    | Easy       | ✅      | [Lien](https://leetcode.com/problems/merge-strings-alternately/) |
+| 1071 | Greatest Common Divisor of Strings                          | Easy     | ✅      | [Lien](https://leetcode.com/problems/greatest-common-divisor-of-strings?envType=study-plan-v2&envId=leetcode-75)                                            |
 | ... | ...                          | ...     | ❌      | ...                                           |
+
 
 ## 📆 Début du challenge : juillet 2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
