@@ -25,7 +25,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 1431 | Kids With the Greatest Number of Candies | Easy | ✅ 26/07/2025 | [Lien](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
 | 605 | Can Place Flowers | Easy | ✅ 26/07/2025 | [Lien](https://leetcode.com/problems/can-place-flowers/) |
 | 345 | Reverse Vowels of a String | Easy | ✅ 27/07/2025 | [Lien](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
-| ... | ... | ... | ❌ | ... |
+| 151 | Reverse Words in a String | Medium | ✅ 27/07/2025  | [Lien](https://leetcode.com/problems/reverse-words-in-a-string) |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
 
