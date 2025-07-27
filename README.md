@@ -18,11 +18,16 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 
 ## 📌 Progression
 
-| #   | Titre                        | Difficulté | Fait ? | Lien LeetCode                             |
-|-----|------------------------------|------------|--------|--------------------------------------------|
-| 1768 | Merge Strings Alternately    | Easy       | ✅      | [Lien](https://leetcode.com/problems/merge-strings-alternately/) |
-| 1071 | Greatest Common Divisor of Strings                          | Easy     | ✅      | [Lien](https://leetcode.com/problems/greatest-common-divisor-of-strings?envType=study-plan-v2&envId=leetcode-75)                                            |
-| ... | ...                          | ...     | ❌      | ...                                           |
+| # | Titre | Difficulté | Fait ? | Lien LeetCode |
+|---|---|---|---|---|
+| 1768 | Merge Strings Alternately | Easy | ✅ 25/07/2025 | [Lien](https://leetcode.com/problems/merge-strings-alternately/) |
+| 1071 | Greatest Common Divisor of Strings | Easy | ✅ 25/07/2025 | [Lien](https://leetcode.com/problems/greatest-common-divisor-of-strings/) |
+| 1431 | Kids With the Greatest Number of Candies | Easy | ✅ 26/07/2025 | [Lien](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
+| 605 | Can Place Flowers | Easy | ✅ 26/07/2025 | [Lien](https://leetcode.com/problems/can-place-flowers/) |
+| 345 | Reverse Vowels of a String | Easy | ✅ 27/07/2025 | [Lien](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
+| ... | ... | ... | ❌ | ... |
+| ... | ... | ... | ❌ | ... |
+| ... | ... | ... | ❌ | ... |
 
 
 ## 📆 Début du challenge : juillet 2025
