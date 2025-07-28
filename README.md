@@ -27,10 +27,12 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 345 | Reverse Vowels of a String | Easy | ✅ 27/07/2025 | [Lien](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 151 | Reverse Words in a String | Medium | ✅ 27/07/2025  | [Lien](https://leetcode.com/problems/reverse-words-in-a-string) |
 | 238 | Product of Array Except Self | Medium | ✅ 27/07/2025 | [Lien] (https://leetcode.com/problems/product-of-array-except-self/) |
+| 334 | Increasing Triplet Subsequence | Medium | ✅ 28/07/2025 | [Lien] (https://leetcode.com/problems/increasing-triplet-subsequence/) |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
 
 
-## 📆 Début du challenge : juillet 2025
+
+## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
