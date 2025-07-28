@@ -6,20 +6,26 @@
 
 #include <vector>
 
-class Solution {
+class Solution
+{
 public:
-    bool canPlaceFlowers(std::vector<int>& flowerbed, int n) {
+    bool canPlaceFlowers(std::vector<int> &flowerbed, int n)
+    {
         int size = flowerbed.size();
 
-        for (int i = 0; i < size; ++i) {
-            if (flowerbed[i] == 0) {
+        for (int i = 0; i < size; ++i)
+        {
+            if (flowerbed[i] == 0)
+            {
                 bool emptyLeft = (i == 0 || flowerbed[i - 1] == 0);
                 bool emptyRight = (i == size - 1 || flowerbed[i + 1] == 0);
 
-                if (emptyLeft && emptyRight) {
+                if (emptyLeft && emptyRight)
+                {
                     flowerbed[i] = 1; // On "plante" ici
                     n--;
-                    if (n == 0) return true;
+                    if (n == 0)
+                        return true;
                 }
             }
         }

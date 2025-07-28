@@ -5,18 +5,26 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    bool increasingTriplet(vector<int>& nums) {
+    bool increasingTriplet(vector<int> &nums)
+    {
         int first = INT_MAX;
         int second = INT_MAX;
 
-        for (int num : nums) {
-            if (num <= first) {
+        for (int num : nums)
+        {
+            if (num <= first)
+            {
                 first = num; // Plus petit nombre rencontré
-            } else if (num <= second) {
+            }
+            else if (num <= second)
+            {
                 second = num; // Deuxième plus petit nombre, supérieur à first
-            } else {
+            }
+            else
+            {
                 // Si on trouve un num plus grand que second -> triplet trouvé
                 return true;
             }

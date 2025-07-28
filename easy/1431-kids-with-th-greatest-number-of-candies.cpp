@@ -7,15 +7,18 @@
 #include <vector>
 #include <algorithm> // pour std::max_element
 
-class Solution {
+class Solution
+{
 public:
-    std::vector<bool> kidsWithCandies(std::vector<int>& candies, int extraCandies) {
+    std::vector<bool> kidsWithCandies(std::vector<int> &candies, int extraCandies)
+    {
         // Étape 1 : Trouver le nombre maximum de bonbons parmi tous les enfants
         int maxCandies = *std::max_element(candies.begin(), candies.end());
 
         // Étape 2 : Comparer chaque enfant avec ce maximum après ajout des bonbons en plus
         std::vector<bool> result;
-        for (int candy : candies) {
+        for (int candy : candies)
+        {
             result.push_back(candy + extraCandies >= maxCandies);
         }
 

@@ -28,9 +28,11 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 151 | Reverse Words in a String | Medium | ✅ 27/07/2025  | [Lien](https://leetcode.com/problems/reverse-words-in-a-string) |
 | 238 | Product of Array Except Self | Medium | ✅ 27/07/2025 | [Lien] (https://leetcode.com/problems/product-of-array-except-self/) |
 | 334 | Increasing Triplet Subsequence | Medium | ✅ 28/07/2025 | [Lien] (https://leetcode.com/problems/increasing-triplet-subsequence/) |
+| 443 | String Compression | Medium | ✅ 28/07/2025 | [Lien] (https://leetcode.com/problems/string-compression) |
+| 283 | Move zeroes | Easy | ✅ 28/07/2025 | [Lien] (https://leetcode.com/problems/move-zeroes/) |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
-| ... | ... | ... | ❌ | ... |
+
 
 
 
