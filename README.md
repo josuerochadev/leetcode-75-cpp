@@ -31,12 +31,10 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 443 | String Compression | Medium | ✅ 28/07/2025 | [Lien](https://leetcode.com/problems/string-compression) |
 | 283 | Move zeroes | Easy | ✅ 28/07/2025 | [Lien](https://leetcode.com/problems/move-zeroes/) |
 | 392 | Is Subsequence | Easy | ✅ 29/07/2025 | [Lien](https://leetcode.com/problems/is-subsequence/) |
+| 11 | With Most Water | Medium | ✅ 29/07/2025 | [Lien](https://leetcode.com/problems/container-with-most-water/) |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
 
-
-
-oj
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
