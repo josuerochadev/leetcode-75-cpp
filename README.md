@@ -33,6 +33,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 392 | Is Subsequence | Easy | ✅ 29/07/2025 | [Lien](https://leetcode.com/problems/is-subsequence/) |
 | 11 | With Most Water | Medium | ✅ 29/07/2025 | [Lien](https://leetcode.com/problems/container-with-most-water/) |
 | 1679 | Max Number of K-Sum Pairs | Medium | ✅ 29/07/2025 | [Lien](https://leetcode.com/problems/max-number-of-k-sum-pairs/) |
+| 643 | Maximum average subarray I | Easy | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/maximum-average-subarray-i) |
 | ... | ... | ... | ❌ | ... |
 | ... | ... | ... | ❌ | ... |
 
