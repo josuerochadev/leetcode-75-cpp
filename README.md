@@ -36,8 +36,10 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 643 | Maximum average subarray I | Easy | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/maximum-average-subarray-i) |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |
 | 1004 | Max consecutive ones III | Medium | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/max-consecutive-ones-iii/)  |
+| 1493 | Longest subarray of 1s after deleting one element | Medium | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |
 | ... | ... | ... | ❌ | ... |
-
+| ... | ... | ... | ❌ | ... |
+| ... | ... | ... | ❌ | ... |
 
 
 ## 📆 Début du challenge : 25/07/2025
