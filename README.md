@@ -38,7 +38,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 1004 | Max consecutive ones III | Medium | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/max-consecutive-ones-iii/)  |
 | 1493 | Longest subarray of 1s after deleting one element | Medium | ✅ 30/07/2025 | [Lien](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |
 | 1732 | Find the Highest Altitude | Easy | ✅ 31/07/2025 | [Lien](https://leetcode.com/problems/find-the-highest-altitude) |
-| ... | ... | ... | ❌ | ... |
+| 724 | Find Pivot Index | Easy | ✅ 31/07/2025 | [Lien](https://leetcode.com/problems/find-pivot-index/) |
 | ... | ... | ... | ❌ | ... |
 
 
