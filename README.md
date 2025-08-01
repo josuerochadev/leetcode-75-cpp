@@ -41,7 +41,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 724 | Find Pivot Index | Easy | ✅ 31/07/2025 | [Lien](https://leetcode.com/problems/find-pivot-index/) |
 | 2215 | Find the Difference of Two Arrays | Easy | ✅ 01/08/2025 | [Lien](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |
 | 1207 | Unique Number of Occurrences | Easy | ✅ 01/08/2025 | [Lien](https://leetcode.com/problems/unique-number-of-occurrences/) |
-| ... | ... | ... | ❌ | ... |
+| 1657 | Determine if Two Strings Are Close | Medium | ✅ 01/08/2025 | [Lien](https://leetcode.com/problems/determine-if-two-strings-are-close/) |
 
 
 ## 📆 Début du challenge : 25/07/2025
