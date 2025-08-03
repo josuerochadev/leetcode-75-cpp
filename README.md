@@ -46,6 +46,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 2390 | Removing Stars From a String | Medium | ✅ 02/08/2025 | [Lien](https://leetcode.com/problems/removing-stars-from-a-string/) |
 | 735 | Asteroid Collision | Medium | ✅ 02/08/2025 | [Lien](https://leetcode.com/problems/asteroid-collision/) |
 | 394 | Decode String | Medium | ✅ 03/08/2025 | [Lien](https://leetcode.com/problems/decode-string/) |
+| 933 | Number of Recent Calls | Easy | ✅ 03/08/2025 | [Lien](https://leetcode.com/problems/number-of-recent-calls/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
