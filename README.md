@@ -51,6 +51,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 2095 | Delete the Middle Node of a Linked List | Medium | ✅ 04/08/2025 | [Lien](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |
 | 328 | Odd Even Linked List | Medium | ✅ 04/08/2025 | [Lien](https://leetcode.com/problems/odd-even-linked-list/) |
 | 206 | Reverse Linked List | Easy | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/reverse-linked-list/) |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
