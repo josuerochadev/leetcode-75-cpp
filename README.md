@@ -52,6 +52,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 328 | Odd Even Linked List | Medium | ✅ 04/08/2025 | [Lien](https://leetcode.com/problems/odd-even-linked-list/) |
 | 206 | Reverse Linked List | Easy | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/reverse-linked-list/) |
 | 2130 | Maximum Twin Sum of a Linked List | Medium | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |
+| 104 | Maximum Depth of Binary Tree | Easy | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 872 | Leaf-Similar Trees | Easy | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/leaf-similar-trees/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
