@@ -54,6 +54,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 2130 | Maximum Twin Sum of a Linked List | Medium | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |
 | 104 | Maximum Depth of Binary Tree | Easy | ✅ 05/08/2025 | [Lien](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 872 | Leaf-Similar Trees | Easy | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/leaf-similar-trees/) |
+| 1448 | Count Good Nodes in Binary Tree | Medium | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |
+
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
