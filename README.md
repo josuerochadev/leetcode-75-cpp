@@ -57,6 +57,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 1448 | Count Good Nodes in Binary Tree | Medium | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |
 | 437 | Path Sum III | Medium | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/path-sum-iii/) |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | ✅ 07/08/2025 | [Lien](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ 07/08/2025 | [Lien](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
