@@ -58,6 +58,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 437 | Path Sum III | Medium | ✅ 06/08/2025 | [Lien](https://leetcode.com/problems/path-sum-iii/) |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | ✅ 07/08/2025 | [Lien](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ 07/08/2025 | [Lien](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 199 | Binary Tree Right Side View | Medium | ✅ 07/08/2025 | [Lien](https://leetcode.com/problems/binary-tree-right-side-view/) |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | ✅ 08/08/2025 | [Lien](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
