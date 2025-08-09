@@ -65,6 +65,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 841 | Keys and Rooms | Medium | ✅ 08/08/2025 | [Lien](https://leetcode.com/problems/keys-and-rooms/) |
 | 547 | Number of Provinces | Medium | ✅ 08/08/2025 | [Lien](https://leetcode.com/problems/number-of-provinces/) |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) |
+| 399 | Evaluate Division | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/evaluate-division/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
