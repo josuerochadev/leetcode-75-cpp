@@ -67,6 +67,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) |
 | 399 | Evaluate Division | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/evaluate-division/) |
 | 1926 | Nearest Exit from Entrance in Maze | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) |
+| 994 | Rotting Oranges | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/rotting-oranges/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
