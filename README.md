@@ -70,7 +70,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 994 | Rotting Oranges | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/rotting-oranges/) |
 | 215 | Kth Largest Element in an Array | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 2336 | Smallest Number in Infinite Set | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/smallest-number-in-infinite-set/) |
-
+| 2542 | Maximum Subsequence Score | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/maximum-subsequence-score/) |
+| 2462 | Total Cost to Hire K Workers | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/total-cost-to-hire-k-workers/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
