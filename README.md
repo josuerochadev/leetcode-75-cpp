@@ -68,6 +68,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 399 | Evaluate Division | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/evaluate-division/) |
 | 1926 | Nearest Exit from Entrance in Maze | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) |
 | 994 | Rotting Oranges | Medium | ✅ 09/08/2025 | [Lien](https://leetcode.com/problems/rotting-oranges/) |
+| 215 | Kth Largest Element in an Array | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
