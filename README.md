@@ -73,6 +73,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 2542 | Maximum Subsequence Score | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/maximum-subsequence-score/) |
 | 2462 | Total Cost to Hire K Workers | Medium | ✅ 10/08/2025 | [Lien](https://leetcode.com/problems/total-cost-to-hire-k-workers/) |
 | 374 | Guess Number Higher or Lower | Easy | ✅ 11/08/2025 | [Lien](https://leetcode.com/problems/guess-number-higher-or-lower/) |
+| 2300 | Successful Pairs of Spells and Potions | Medium | ✅ 11/08/2025 | [Lien](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) |
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
