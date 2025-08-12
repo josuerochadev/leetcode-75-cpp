@@ -77,6 +77,9 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 162 | Find Peak Element | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/find-peak-element/) |
 | 875 | Koko Eating Bananas | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/koko-eating-bananas/) |
 | 17 | Letter Combinations of a Phone Number | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 216 | Combination Sum III | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/combination-sum-iii/) |
+
+
 
 ## 📆 Début du challenge : 25/07/2025
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
