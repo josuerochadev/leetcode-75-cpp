@@ -3,11 +3,13 @@
 Ce dépôt contient ma progression complète du challenge **LeetCode 75**, résolu en **C++** pour renforcer mes compétences en algorithmes et en bas niveau.
 
 ## 🎯 Objectifs
+
 - Apprendre et pratiquer les algorithmes fondamentaux en C++
 - Documenter mes solutions de façon professionnelle
 - Partager ma progression de manière publique et utile
 
 ## 📚 Organisation
+
 - Les exercices sont organisés par niveau de difficulté :
   - `easy/`
   - `medium/`
@@ -79,8 +81,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 17 | Letter Combinations of a Phone Number | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 216 | Combination Sum III | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/combination-sum-iii/) |
 | 1137 | N-th Tribonacci Number | Easy | ✅ 13/08/2025 | [Lien](https://leetcode.com/problems/n-th-tribonacci-number/) |
-
-
+| 746 | Min Cost Climbing Stairs | Easy | ✅ 13/08/2025 | [Lien](https://leetcode.com/problems/min-cost-climbing-stairs/) |
 
 ## 📆 Début du challenge : 25/07/2025
+
 ## 🔗 Mon LinkedIn : [josuexrochadev](https://www.linkedin.com/in/josuerochadev/)
