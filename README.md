@@ -78,6 +78,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 875 | Koko Eating Bananas | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/koko-eating-bananas/) |
 | 17 | Letter Combinations of a Phone Number | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 216 | Combination Sum III | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/combination-sum-iii/) |
+| 1137 | N-th Tribonacci Number | Easy | ✅ 13/08/2025 | [Lien](https://leetcode.com/problems/n-th-tribonacci-number/) |
 
 
 
