@@ -82,6 +82,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 216 | Combination Sum III | Medium | ✅ 12/08/2025 | [Lien](https://leetcode.com/problems/combination-sum-iii/) |
 | 1137 | N-th Tribonacci Number | Easy | ✅ 13/08/2025 | [Lien](https://leetcode.com/problems/n-th-tribonacci-number/) |
 | 746 | Min Cost Climbing Stairs | Easy | ✅ 13/08/2025 | [Lien](https://leetcode.com/problems/min-cost-climbing-stairs/) |
+| 198 | House Robber | Medium | ✅ 14/08/2025 | [Lien](https://leetcode.com/problems/house-robber/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
