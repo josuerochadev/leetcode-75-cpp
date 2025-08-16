@@ -85,6 +85,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 198 | House Robber | Medium | ✅ 14/08/2025 | [Lien](https://leetcode.com/problems/house-robber/) |
 | 0790 | Domino and Tromino Tiling | Medium | ✅ 14/08/2025 | [Lien](https://leetcode.com/problems/domino-and-tromino-tiling/) |
 | 62 | Unique Paths | Medium | ✅ 15/08/2025 | [Lien](https://leetcode.com/problems/unique-paths/) |
+| 1143 | Longest Common Subsequence | Medium | ✅ 15/08/2025 | [Lien](https://leetcode.com/problems/longest-common-subsequence/) |
+| 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | ✅ 16/08/2025 | [Lien](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
