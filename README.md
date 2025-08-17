@@ -89,6 +89,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | ✅ 16/08/2025 | [Lien](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 72 | Edit Distance | Medium | ✅ 16/08/2025 | [Lien](https://leetcode.com/problems/edit-distance/) |
 | 338 | Counting Bits | Easy | ✅ 17/08/2025 | [Lien](https://leetcode.com/problems/counting-bits/) |
+| 136 | Single Number | Easy | ✅ 17/08/2025 | [Lien](https://leetcode.com/problems/single-number/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
