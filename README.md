@@ -90,6 +90,8 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 72 | Edit Distance | Medium | ✅ 16/08/2025 | [Lien](https://leetcode.com/problems/edit-distance/) |
 | 338 | Counting Bits | Easy | ✅ 17/08/2025 | [Lien](https://leetcode.com/problems/counting-bits/) |
 | 136 | Single Number | Easy | ✅ 17/08/2025 | [Lien](https://leetcode.com/problems/single-number/) |
+| 1318 | Minimum Flips to Make a OR b Equal to c | Medium | ✅ 18/08/2025 | [Lien](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) |
+| 208 | Implement Trie (Prefix Tree) | Medium | ✅ 18/08/2025 | [Lien](https://leetcode.com/problems/implement-trie-prefix-tree/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
