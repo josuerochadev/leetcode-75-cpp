@@ -92,6 +92,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 136 | Single Number | Easy | ✅ 17/08/2025 | [Lien](https://leetcode.com/problems/single-number/) |
 | 1318 | Minimum Flips to Make a OR b Equal to c | Medium | ✅ 18/08/2025 | [Lien](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) |
 | 208 | Implement Trie (Prefix Tree) | Medium | ✅ 18/08/2025 | [Lien](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 1268 | Search Suggestions System | Medium | ✅ 19/08/2025 | [Lien](https://leetcode.com/problems/search-suggestions-system/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
