@@ -95,6 +95,7 @@ Ce dépôt contient ma progression complète du challenge **LeetCode 75**, réso
 | 1268 | Search Suggestions System | Medium | ✅ 19/08/2025 | [Lien](https://leetcode.com/problems/search-suggestions-system/) |
 | 435 | Non-overlapping Intervals | Medium | ✅ 19/08/2025 | [Lien](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | ✅ 19/08/2025 | [Lien](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
+| 739 | Daily Temperatures | Medium | ✅ 20/08/2025 | [Lien](https://leetcode.com/problems/daily-temperatures/) |
 
 ## 📆 Début du challenge : 25/07/2025
 
